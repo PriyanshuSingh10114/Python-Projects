@@ -1,1 +1,1 @@
-**Note:** This was one of my early projects from 1.5 years ago. While the code may not reflect my current standards, it represents an important step in my initial learning journey.
+> **Note**: These projects were created when I was just starting with Python. Since then, I've worked on more advanced projects and improved my coding skills significantly. Check out my recent work for updated examples!  
